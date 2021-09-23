@@ -12,7 +12,7 @@ Requires Python 3.9 (I reccomended [pyenv](https://github.com/pyenv/pyenv) to ma
 Use [pipenv](https://pipenv.pypa.io/en/latest/) to create a virtual environment and install all dependencies
 
 ```bash
-cd zendesk_coding_challenge
+cd zendesk-coding-challenge
 pipenv install --dev
 ```
 
